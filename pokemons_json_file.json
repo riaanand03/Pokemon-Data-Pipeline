@@ -1,0 +1,1 @@
+[{"name": "pikachu", "abilities": ["static", "lightning-rod"], "types": ["electric"], "stats": ["hp", "attack", "defense", "special-attack", "special-defense", "speed"]}, {"name": "charizard", "abilities": ["blaze", "solar-power"], "types": ["fire", "flying"], "stats": ["hp", "attack", "defense", "special-attack", "special-defense", "speed"]}]
